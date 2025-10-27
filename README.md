@@ -13,7 +13,7 @@ Originally developed as part of the TripleTen Data Analytics Bootcamp, this vers
 
 For easy reproducibility on GitHub, the analysis reads CSV snapshots and builds an in-memory SQLite database so all queries can be executed with pd.read_sql.
 
-💻 **Repository:** [https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
+💻 **Repository:** [https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
 
 ---
 
