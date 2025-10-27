@@ -1,4 +1,4 @@
-# 📚 SQL Analysis — Books, Ratings & Reviews
+# 📚 Business Reporting with SQL – Multi-table Data Exploration
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite%20(in%20memory)-lightgrey?logo=sqlite)
@@ -6,8 +6,8 @@
 ![Data](https://img.shields.io/badge/Data-CSV%20snapshots-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+This project demonstrates the use of SQL for data modelling, performance analysis, and KPI generation using a multi-table dataset (books, authors, publishers, ratings).
 This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
-This project explores a book-platform dataset using **SQL** to extract insights about **publications, authors, publishers, ratings and user behaviour**.  
 For easy reproducibility on GitHub, the analysis reads **CSV snapshots** and builds an **in-memory SQLite** database so all queries can be executed with `pd.read_sql`.
 
 💻 **Repository:** [https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
