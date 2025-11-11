@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover_SQL.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+</p>
+
+
 # 📚 Business Reporting with SQL – Multi-table Data Exploration
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
